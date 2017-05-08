@@ -1,0 +1,12 @@
+---
+title: "README"
+author: "Paul Oldham"
+date: "8 May 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This repository stores the data for the review of publications involving plants from ethiopia. 

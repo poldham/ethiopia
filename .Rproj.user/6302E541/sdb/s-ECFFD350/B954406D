@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"README\"\nauthor: \"Paul Oldham\"\ndate: \"8 May 2017\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\nThis repository stores the data for the review of publications involving plants from ethiopia. \n",
+    "created" : 1494250642542.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "686087671",
+    "id" : "B954406D",
+    "lastKnownWriteTime" : 1494250694,
+    "last_content_update" : 1494250694286,
+    "path" : "~/Desktop/open_source_master/ethiopia/README.Rmd",
+    "project_path" : "README.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
